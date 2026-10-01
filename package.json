@@ -1,0 +1,22 @@
+{
+  "name": "api-testing-postman-playwright",
+  "version": "1.0.0",
+  "description": "API test suite covering CRUD operations (Create, Read, Update, Delete) on the [Restful Booker](https://restful-booker.herokuapp.com/) public demo API, built with **Postman** and (next) automated in **Playwright with TypeScript**.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashi-dwivedi/api-testing-postman-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashi-dwivedi/api-testing-postman-playwright/issues"
+  },
+  "homepage": "https://github.com/yashi-dwivedi/api-testing-postman-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
